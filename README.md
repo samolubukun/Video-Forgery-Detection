@@ -16,12 +16,14 @@ The CNN model is trained to classify video frames as real or forged:
 - **Performance Metrics:**
   - Accuracy: 81.0%
 
+
 - **Access Training Notebook:** [Notebook](https://github.com/samolubukun/Video-Forgery-Detection/tree/main/Notebook)
 - **Dataset Used:** [REWIND 3D Dataset]([https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces](https://data.mendeley.com/datasets/2b28sr4mm3/2/files/a931d246-f383-46ee-803c-1242a1df6b1b))
 
 - **Model Download:** Download the trained model file and place it in the same folder as the Streamlit app (e.g., `app.py`) for execution: [videoforgerydetection.keras](https://drive.google.com/file/d/16X6fRYiFargQzyrxmw-IxI2KWREi6z1e/view?usp=sharing)
 
-  
+
+
 ## How to Use
 
 1. Clone the repository:

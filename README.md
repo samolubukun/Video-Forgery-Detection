@@ -1,6 +1,6 @@
 # Video Forgery Detection using CNN
 This repository provides a deep learning-based solution for detecting forged videos using a Convolutional Neural Network (CNN). 
-The system analyzes uploaded videos and predicts whether they contain manipulated frames using a trained ResNet-based model.
+The system analyzes uploaded videos and predicts whether they contain forged frames using a trained ResNet-based model.
 
 ![Screenshot (264)](https://github.com/user-attachments/assets/9639a693-57d9-457b-808d-6b2b172b4064)
 
